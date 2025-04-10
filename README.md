@@ -20,7 +20,7 @@ A simple and elegant **Google Keep Clone** built entirely with **React.js**. Thi
 
 1. **Clone the repo:**
    ```bash
-   https://github.com/Nipun-Gupta-codes/Google-Keep-Clone.git
+   git clone https://github.com/Nipun-Gupta-codes/Google-Keep-Clone.git
    cd google-keep-clone
    ```
 
